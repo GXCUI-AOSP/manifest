@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- MicroG -->
+  <project path="vendor/partner/gms" name="GXCUI-AOSP/vendor_partner_gms" revision="fourteen" />
+
+</manifest>
