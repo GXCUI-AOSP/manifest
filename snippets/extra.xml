@@ -4,4 +4,7 @@
   <!-- MicroG -->
   <project path="vendor/partner/gms" name="GXCUI-AOSP/vendor_partner_gms" revision="fourteen" />
 
+  <!-- Calyx Datura firewall -->
+  <project path="prebuilts/datura" name="GXCUI-AOSP/prebuilts_datura" revision="fourteen" />
+  <project path="external/datura" name="GXCUI-AOSP/external_datura" revision="fourteen" />
 </manifest>
