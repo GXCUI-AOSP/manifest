@@ -7,4 +7,7 @@
   <!-- Calyx Datura firewall -->
   <project path="prebuilts/datura" name="GXCUI-AOSP/prebuilts_datura" revision="fourteen" />
   <project path="external/datura" name="GXCUI-AOSP/external_datura" revision="fourteen" />
+
+  <!-- Prebuilt appliactions -->
+  <project path="prebuilts/Apps" name="GXCUI-AOSP/prebuilts_Apps" revision="fourteen" />
 </manifest>
